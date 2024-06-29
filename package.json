@@ -2,7 +2,7 @@
   "name": "first-next-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://serhii-filatov.github.io/first-next-app",
+  "homepage": "https://serhii-filatov.github.io/first-next-app/",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
